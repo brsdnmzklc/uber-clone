@@ -35,6 +35,15 @@ expo start
 - [React Native Maps Direction](https://github.com/bramus/react-native-maps-directions)
 - [Expo](https://expo.io/)
 - [React Navigation](https://reactnavigation.org/)
+- ## Screenshots
+- ![Screenshot_1691442870](https://github.com/brsdnmzklc/uber-clone/assets/77075702/e66423d6-7b4e-4e86-8556-559f1b897c35)- ![Screenshot_1691442876](https://github.com/brsdnmzklc/uber-clone/assets/77075702/8b9c9498-7f1a-4451-9e30-40de978d6a58)- ![Screenshot_1691442886](https://github.com/brsdnmzklc/uber-clone/assets/77075702/9c6d7f9b-114a-42f8-b6c8-97d43f39ee37)- ![Screenshot_1691442895](https://github.com/brsdnmzklc/uber-clone/assets/77075702/7bd80064-2a72-4284-98f7-c8fe5fd8c0a3)- ![Screenshot_1691442917](https://github.com/brsdnmzklc/uber-clone/assets/77075702/d95f978b-040b-4c5f-883a-01a6272bcb2c)
+- ![Screenshot_1691442935](https://github.com/brsdnmzklc/uber-clone/assets/77075702/de57132d-dad7-4695-a5c7-64e500a02d2b)
+
+
+
+
+
+
 
 ## Contributing
 
