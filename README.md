@@ -36,8 +36,13 @@ expo start
 - [Expo](https://expo.io/)
 - [React Navigation](https://reactnavigation.org/)
 - ## Screenshots
-- ![Screenshot_1691442870](https://github.com/brsdnmzklc/uber-clone/assets/77075702/e66423d6-7b4e-4e86-8556-559f1b897c35)- ![Screenshot_1691442876](https://github.com/brsdnmzklc/uber-clone/assets/77075702/8b9c9498-7f1a-4451-9e30-40de978d6a58)- ![Screenshot_1691442886](https://github.com/brsdnmzklc/uber-clone/assets/77075702/9c6d7f9b-114a-42f8-b6c8-97d43f39ee37)- ![Screenshot_1691442895](https://github.com/brsdnmzklc/uber-clone/assets/77075702/7bd80064-2a72-4284-98f7-c8fe5fd8c0a3)- ![Screenshot_1691442917](https://github.com/brsdnmzklc/uber-clone/assets/77075702/d95f978b-040b-4c5f-883a-01a6272bcb2c)
-- ![Screenshot_1691442935](https://github.com/brsdnmzklc/uber-clone/assets/77075702/de57132d-dad7-4695-a5c7-64e500a02d2b)
+![WhatsApp Görsel 2023-08-08 saat 23 27 37](https://github.com/brsdnmzklc/uber-clone/assets/77075702/91f66ffc-b62d-4468-a9e2-9e234ede46f6)
+![WhatsApp Görsel 2023-08-08 saat 23 27 57](https://github.com/brsdnmzklc/uber-clone/assets/77075702/5cbb7f6f-6da8-41f5-a0b9-28af2aa90114)
+![WhatsApp Görsel 2023-08-08 saat 23 28 15](https://github.com/brsdnmzklc/uber-clone/assets/77075702/e02b120b-dca8-4d66-a4cd-f8dcc269ea8a)
+![WhatsApp Görsel 2023-08-08 saat 23 28 37](https://github.com/brsdnmzklc/uber-clone/assets/77075702/14f5e8b8-fdb4-435d-9aa3-1459fdf55f72)
+![WhatsApp Görsel 2023-08-08 saat 23 29 10](https://github.com/brsdnmzklc/uber-clone/assets/77075702/9e3c77c1-16f7-4b0f-b0db-271f5f4f250b)
+![WhatsApp Görsel 2023-08-08 saat 23 29 37](https://github.com/brsdnmzklc/uber-clone/assets/77075702/47d68a24-53a3-483f-bdd7-11f731c99fb6)
+![WhatsApp Görsel 2023-08-08 saat 23 29 54](https://github.com/brsdnmzklc/uber-clone/assets/77075702/c16f8d29-8910-4dd9-b66f-2c2b16ba79a7)
 
 
 
